@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Tumaz App Updates</title>
+    <link>https://github.com/yzlin/tumaz-web</link>
+    <description>Most recent Tumaz releases.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <link>https://github.com/yzlin/tumaz-web</link>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text"><![CDATA[- Hotkeys: Added Hands-Free mode (default `fn + space`) and Voice double-tap to latch recording.
+- Hotkeys: ESC cancels recording or processing at any time.
+- Hotkeys: Chorded Quick Translate keeps recording after release.
+- About tab: Update controls now appear directly under the version.]]></description>
+      <pubDate>Thu, 15 Jan 2026 15:57:18 +0000</pubDate>
+      <enclosure url="https://github.com/yzlin/tumaz-web/releases/download/v0.2.0/Tumaz-0.2.0.zip" length="5010315" type="application/octet-stream" sparkle:edSignature="Heb9HDC0O2QkTGDHFyzNisahxCE2od1m8zuI/6p7ImVOH46gBO8+Ee5ay1mTNC7KqKlo8OGQYMLGTBak7Wz7Aw=="/>
+    </item>
+
+  </channel>
+</rss>
