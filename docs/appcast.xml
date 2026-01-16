@@ -6,6 +6,21 @@
     <description>Most recent Tumaz releases.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.2</title>
+      <link>https://github.com/yzlin/tumaz-web</link>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text"><![CDATA[- Output: Improved accessibility stability with workspace-frontmost fallback for focus acquisition.
+- Output: Added manual accessibility retry with throttling and error logging for stubborn applications.
+- Output: Non-activating recording indicator avoids focus stealing while capturing voice.
+- UI: Refined indicator styling with an opaque pill design, disabled window shadows, and padded view-level shadows.
+- Debug: Surface detailed accessibility context (PIDs, app names, bundle IDs, manual AX status) in debug panel.]]></description>
+      <pubDate>Fri, 16 Jan 2026 18:09:06 +0000</pubDate>
+      <enclosure url="https://github.com/yzlin/tumaz-web/releases/download/v0.2.2/Tumaz-0.2.2.zip" length="5117609" type="application/octet-stream" sparkle:edSignature="5l3dxCbsEr87qfdh9cah4nPSy0hd9U7tCMU55jDK0FamSOa83ZxDEMfkUCONOOXvC8uVgtOBEVjoZ/1W1CZfBA=="/>
+    </item>
+
+    <item>
       <title>Version 0.2.1</title>
       <link>https://github.com/yzlin/tumaz-web</link>
       <sparkle:version>18</sparkle:version>
