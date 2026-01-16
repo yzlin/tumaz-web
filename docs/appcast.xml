@@ -6,6 +6,19 @@
     <description>Most recent Tumaz releases.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.1</title>
+      <link>https://github.com/yzlin/tumaz-web</link>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text"><![CDATA[- Debug: Added a dedicated debug panel with session steps, permissions, and logs.
+- Debug: Output diagnostics now capture detailed output attempts and context.
+- Debug: Debug panel remembers window size/position and split layout.]]></description>
+      <pubDate>Fri, 16 Jan 2026 09:38:17 +0000</pubDate>
+      <enclosure url="https://github.com/yzlin/tumaz-web/releases/download/v0.2.1/Tumaz-0.2.1.zip" length="5098203" type="application/octet-stream" sparkle:edSignature="q+ym7pV5UcKq7ou3qLkaMhbjs2TBQonZl+XvEF/bQUoAWdNgNICvFUeNIZkMfNvw2mdlmIISQ/nTekZ5Q56kAA=="/>
+    </item>
+
+    <item>
       <title>Version 0.2.0</title>
       <link>https://github.com/yzlin/tumaz-web</link>
       <sparkle:version>17</sparkle:version>
