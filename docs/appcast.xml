@@ -6,6 +6,23 @@
     <description>Most recent Tumaz releases.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.3</title>
+      <link>https://github.com/yzlin/tumaz-web</link>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text"><![CDATA[- Output: Show result panel when output fails on read-only web selections.
+- Debug: Surface selection fallback details in the debug panel.
+- Output: Capture selected text from descendant accessibility elements (Live Text support).
+- History: Add persistent session history with SwiftData storage, retention policies, and audio recordings.
+- History: Add Home window with History tab, timeline grouping, and actions (copy, retry, download, delete).
+- History: Default export filename uses session id; downloads open in Downloads.
+- Settings: Add launch-at-login toggle with system login item sync.]]></description>
+      <pubDate>Mon, 19 Jan 2026 12:00:45 +0000</pubDate>
+      <enclosure url="https://github.com/yzlin/tumaz-web/releases/download/v0.2.3/Tumaz-0.2.3.zip" length="5211506" type="application/octet-stream" sparkle:edSignature="xc01ABhaDQO8h0ksYAYFDXCAurxn/PRaprakIzKufQSn3I3+bgoB2vOXyaXhUMvUykkKY8zKN4SVcZ4TdwTrAg=="/>
+    </item>
+
+    <item>
       <title>Version 0.2.2</title>
       <link>https://github.com/yzlin/tumaz-web</link>
       <sparkle:version>19</sparkle:version>
