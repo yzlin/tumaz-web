@@ -6,6 +6,20 @@
     <description>Most recent Tumaz releases.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.0</title>
+      <link>https://github.com/yzlin/tumaz-web</link>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text"><![CDATA[- Settings: Add indicator position option (bottom center default, top center available).
+- Updates: Add gentle reminder notifications.
+- Voice commands: Add multilingual recognition with fuzzy matching.
+- Voice commands: Normalize spoken command input before routing.]]></description>
+      <pubDate>Sun, 01 Feb 2026 12:04:17 +0000</pubDate>
+      <enclosure url="https://github.com/yzlin/tumaz-web/releases/download/v0.3.0/Tumaz-0.3.0.zip" length="5332517" type="application/octet-stream" sparkle:edSignature="VdE/9TbQWxvJEcbPjqscpgOkxTowd3anhGE3MWyzyC29sVCDSplxCTS9h6yiab6Pf2vPD77k/NlUa/xXB8/HDw=="/>
+    </item>
+
+    <item>
       <title>Version 0.2.3</title>
       <link>https://github.com/yzlin/tumaz-web</link>
       <sparkle:version>20</sparkle:version>
