@@ -6,6 +6,17 @@
     <description>Most recent Tumaz releases.</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.0</title>
+      <link>https://github.com/yzlin/tumaz-web</link>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text"><![CDATA[Release 0.4.0]]></description>
+      <pubDate>Sun, 15 Feb 2026 15:50:57 +0000</pubDate>
+      <enclosure url="https://github.com/yzlin/tumaz-web/releases/download/v0.4.0/Tumaz-0.4.0.zip" length="5494255" type="application/octet-stream" sparkle:edSignature="vqvQvcwiYNxpkKCrgj/mQTjPEvZ88Ae8EcenlsM5LMRvfDLCkmEuEXwFT4RlIhg85EsKXLLTN13KBQY4bh+NCw=="/>
+    </item>
+
+    <item>
       <title>Version 0.3.0</title>
       <link>https://github.com/yzlin/tumaz-web</link>
       <sparkle:version>21</sparkle:version>
